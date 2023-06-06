@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/index.j",
+    "start": "node dist/index.js",
     "server": "nodemon dist/index.js"
   },
   "author": "",
